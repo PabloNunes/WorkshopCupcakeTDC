@@ -1,5 +1,5 @@
 # WorkshopCupcakeTDC
-Meu Deus tantos bolinhos para comer! Mas só há 30, quem vai conseguir primeiro?
+Meu Deus tantos bolinhos para comer! Mas só há 25, quem vai conseguir primeiro?
 
 Repositório criado para apresentar as informações do Workshop Cupcake na TDC 2026! O lab será executado no Skillable.
 
